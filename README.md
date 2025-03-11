@@ -9,5 +9,5 @@
 - 👩🏻‍🤝‍👩🏽 Let's collaborate!
 
 <p> 
-    <a href="mailto:dunne.emma.m@gmail.com">email me!</a> | <a href="https://bsky.app/profile/alisoncribb.bsky.social" target="_blank"> bluesky </a> | <a href="https://scholar.google.co.uk/citations?user=-_S3H7cAAAAJ&hl=en" target="_blank"> google scholar </a> | <a href="https://emmadunne.github.io" target="_blank">personal website</a> |
+    <a href="mailto:dunne.emma.m@gmail.com">email me</a> | <a href="https://bsky.app/profile/alisoncribb.bsky.social" target="_blank"> connect on bluesky </a> | <a href="https://scholar.google.co.uk/citations?user=-_S3H7cAAAAJ&hl=en" target="_blank"> browse my publications </a> | <a href="https://emmadunne.github.io" target="_blank"> visit my personal website</a> |
 </p>
