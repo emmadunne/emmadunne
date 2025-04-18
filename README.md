@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 👩🏻‍💻 I’m Emma, a quantitative palaeobiologist based at Friedrich-Alexander-Universität (FAU) in Erlangen, Germany
-- 🦕 researching the impacts of climate change on species biodiversity through deep-time
-- ⚖️ quantitatively examining influence of colonialism, (un)ethical practices, and legal issues on geoscience research
-- 📚 co-leading the <a href="https://paleoscientometrics.github.io/">Pal(a)eoscientometrics Research Collective</a>
+- 🦕 impacts of climate change on species biodiversity through deep-time
+- ⚖️ quantitative examinations of the influence of colonialism, (un)ethical practices, and legal issues on geoscience research
+- 📚 co-lead of the <a href="https://paleoscientometrics.github.io/">Pal(a)eoscientometrics Research Collective</a>
 - 🦎 devoted to ancient reptiles and amphibians 
 - 🔬 pasionate about justice, equity, diversity and inclusion
 - 🌍 member of the <a href="https://paleobiodb.org/#/">Paleobiology Database</a> executive committee
