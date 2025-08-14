@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👩🏻‍💻 I’m Emma, a quantitative palaeobiologist based at Friedrich-Alexander-Universität (FAU) in Erlangen, Germany
+- 👩🏻‍💻 I’m Emma and I'm a quantitative palaeobiologist and vertebrate palaeontologist
 - 🦕 impacts of climate change on species biodiversity through deep-time
 - ⚖️ quantitative examinations of the influence of colonialism, (un)ethical practices, and legal issues on geoscience research
 - 📚 co-lead of the <a href="https://paleoscientometrics.github.io/">Pal(a)eoscientometrics Research Collective</a>
