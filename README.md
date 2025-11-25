@@ -5,7 +5,7 @@
 - ⚖️ quantitative examinations of the influence of colonialism, (un)ethical practices, and legal issues on geoscience research
 - 📚 co-lead of the <a href="https://paleoscientometrics.github.io/">Pal(a)eoscientometrics Research Collective</a>
 - 🦎 devoted to ancient reptiles and amphibians 
-- 🔬 pasionate about justice, equity, diversity and inclusion
+- 🔬 passionate about justice, equity, diversity and inclusion
 - 🌍 member of the <a href="https://paleobiodb.org/#/">Paleobiology Database</a> executive committee
 - 👩🏻‍🤝‍👩🏽 Let's collaborate!
 
