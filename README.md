@@ -2,10 +2,9 @@
 
 - 👩🏻‍💻 I’m Emma and I'm a quantitative palaeobiologist
 - 🦕 I research impacts of climate change on species biodiversity through deep-time (mostly terrestrial vertebrates 🦎🐊)
-- 📚 I co-lead the <a href="https://paleoscientometrics.github.io/">Pal(a)eoscientometrics Research Collective</a>
-- ⚖️ where we conduct quantitative examinations of the influence of colonialism, (un)ethical practices, and legal issues on geoscience research
-- 🌍 I'm member of the <a href="https://paleobiodb.org/#/">Paleobiology Database</a> executive committee
-- 📔 and Ethics Editor at <a href="https://www.tandfonline.com/journals/ghbi20">Historical Biology</a>
+- ⚖️ I co-lead the <a href="https://paleoscientometrics.github.io/">Pal(a)eoscientometrics Research Collective</a> where we conduct quantitative examinations of the influence of colonialism, (un)ethical practices, and legal issues on geoscience research
+- 🌍 I'm member of the <a href="https://paleobiodb.org/#/">Paleobiology Database</a> Executive Committee
+- 📚 and Ethics Editor at <a href="https://www.tandfonline.com/journals/ghbi20">Historical Biology</a>
 - 💬 Let's chat! 
 
 <p> 
